@@ -40,8 +40,8 @@ This project presents an intelligent system for identifying turmeric leaf diseas
 ## 🚀 How to Run the Project
 
 ### Step 1: Clone the Repository
-git   
-cd 
+git https://github.com/RUTHRAYENI/Wild-Fire-Detection
+cd Wild-Fire-Detection
 
 ### Step 2: Install Dependencies
 pip install -r requirements.txt  
