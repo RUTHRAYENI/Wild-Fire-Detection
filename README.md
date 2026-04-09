@@ -40,8 +40,8 @@ This project presents an intelligent system for identifying turmeric leaf diseas
 ## 🚀 How to Run the Project
 
 ### Step 1: Clone the Repository
-git clone https://github.com/YOUR_USERNAME/turmeric-disease-detection.git  
-cd turmeric-disease-detection  
+git   
+cd 
 
 ### Step 2: Install Dependencies
 pip install -r requirements.txt  
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 ---
 
 ## 🔗 Dataset Link
-(Add your Google Drive dataset link here)
+https://drive.google.com/drive/folders/18bwW21hhzOVQge1XKi6I_B4f6QoynzLZ?usp=drive_link
 
 ---
 
@@ -82,10 +82,4 @@ pip install -r requirements.txt
 ---
 
 ## 👨‍💻 Author
-Pranesh Raj S  
-Engineering Student – Software Engineering  
-
----
-
-## 📜 License
-This project is developed for academic and research purposes.
+Ruthrayeni.A
